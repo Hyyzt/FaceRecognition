@@ -1,0 +1,2 @@
+include ':openCVLibrary2411'
+include ':openCVSamplefacedetection'

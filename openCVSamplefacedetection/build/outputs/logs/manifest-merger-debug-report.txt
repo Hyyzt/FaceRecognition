@@ -1,0 +1,205 @@
+-- Merging decision tree log ---
+manifest
+ADDED from E:\Android_prj\face-detection1\openCVSamplefacedetection\src\main\AndroidManifest.xml:2:1-69:12
+	package
+		ADDED from E:\Android_prj\face-detection1\openCVSamplefacedetection\src\main\AndroidManifest.xml:3:5-44
+		INJECTED from E:\Android_prj\face-detection1\openCVSamplefacedetection\src\main\AndroidManifest.xml
+		INJECTED from E:\Android_prj\face-detection1\openCVSamplefacedetection\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from E:\Android_prj\face-detection1\openCVSamplefacedetection\src\main\AndroidManifest.xml:5:5-30
+		INJECTED from E:\Android_prj\face-detection1\openCVSamplefacedetection\src\main\AndroidManifest.xml
+		INJECTED from E:\Android_prj\face-detection1\openCVSamplefacedetection\src\main\AndroidManifest.xml
+	android:versionCode
+		ADDED from E:\Android_prj\face-detection1\openCVSamplefacedetection\src\main\AndroidManifest.xml:4:5-29
+		INJECTED from E:\Android_prj\face-detection1\openCVSamplefacedetection\src\main\AndroidManifest.xml
+		INJECTED from E:\Android_prj\face-detection1\openCVSamplefacedetection\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from E:\Android_prj\face-detection1\openCVSamplefacedetection\src\main\AndroidManifest.xml:2:11-69
+uses-sdk
+ADDED from E:\Android_prj\face-detection1\openCVSamplefacedetection\src\main\AndroidManifest.xml:7:5-44
+MERGED from [face-detection1:openCVLibrary2411:unspecified] E:\Android_prj\face-detection1\openCVSamplefacedetection\build\intermediates\exploded-aar\face-detection1\openCVLibrary2411\unspecified\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support.constraint:constraint-layout:1.0.0-alpha7] E:\Android_prj\face-detection1\openCVSamplefacedetection\build\intermediates\exploded-aar\com.android.support.constraint\constraint-layout\1.0.0-alpha7\AndroidManifest.xml:5:5-7:41
+MERGED from [com.yanzhenjie:permission:1.0.8] E:\Android_prj\face-detection1\openCVSamplefacedetection\build\intermediates\exploded-aar\com.yanzhenjie\permission\1.0.8\AndroidManifest.xml:20:5-22:41
+MERGED from [com.android.support:appcompat-v7:25.3.1] E:\Android_prj\face-detection1\openCVSamplefacedetection\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.3.1\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-v4:25.3.1] E:\Android_prj\face-detection1\openCVSamplefacedetection\build\intermediates\exploded-aar\com.android.support\support-v4\25.3.1\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-compat:25.3.1] E:\Android_prj\face-detection1\openCVSamplefacedetection\build\intermediates\exploded-aar\com.android.support\support-compat\25.3.1\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-media-compat:25.3.1] E:\Android_prj\face-detection1\openCVSamplefacedetection\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.3.1\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-utils:25.3.1] E:\Android_prj\face-detection1\openCVSamplefacedetection\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.3.1\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-ui:25.3.1] E:\Android_prj\face-detection1\openCVSamplefacedetection\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.3.1\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-fragment:25.3.1] E:\Android_prj\face-detection1\openCVSamplefacedetection\build\intermediates\exploded-aar\com.android.support\support-fragment\25.3.1\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-vector-drawable:25.3.1] E:\Android_prj\face-detection1\openCVSamplefacedetection\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.3.1\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] E:\Android_prj\face-detection1\openCVSamplefacedetection\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.3.1\AndroidManifest.xml:20:5-44
+MERGED from [com.yanzhenjie.alertdialog:alertdialog:1.0.1] E:\Android_prj\face-detection1\openCVSamplefacedetection\build\intermediates\exploded-aar\com.yanzhenjie.alertdialog\alertdialog\1.0.1\AndroidManifest.xml:6:5-8:41
+MERGED from [com.yanzhenjie.nohttp:okhttp:1.1.3] E:\Android_prj\face-detection1\openCVSamplefacedetection\build\intermediates\exploded-aar\com.yanzhenjie.nohttp\okhttp\1.1.3\AndroidManifest.xml:21:5-23:41
+MERGED from [com.yanzhenjie.nohttp:nohttp:1.1.3] E:\Android_prj\face-detection1\openCVSamplefacedetection\build\intermediates\exploded-aar\com.yanzhenjie.nohttp\nohttp\1.1.3\AndroidManifest.xml:20:5-22:41
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:25.3.1] E:\Android_prj\face-detection1\openCVSamplefacedetection\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.3.1\AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from E:\Android_prj\face-detection1\openCVSamplefacedetection\src\main\AndroidManifest.xml
+		INJECTED from E:\Android_prj\face-detection1\openCVSamplefacedetection\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from E:\Android_prj\face-detection1\openCVSamplefacedetection\src\main\AndroidManifest.xml:7:15-41
+		INJECTED from E:\Android_prj\face-detection1\openCVSamplefacedetection\src\main\AndroidManifest.xml
+		INJECTED from E:\Android_prj\face-detection1\openCVSamplefacedetection\src\main\AndroidManifest.xml
+supports-screens
+ADDED from E:\Android_prj\face-detection1\openCVSamplefacedetection\src\main\AndroidManifest.xml:9:5-14:39
+	android:largeScreens
+		ADDED from E:\Android_prj\face-detection1\openCVSamplefacedetection\src\main\AndroidManifest.xml:11:9-36
+	android:smallScreens
+		ADDED from E:\Android_prj\face-detection1\openCVSamplefacedetection\src\main\AndroidManifest.xml:14:9-36
+	android:normalScreens
+		ADDED from E:\Android_prj\face-detection1\openCVSamplefacedetection\src\main\AndroidManifest.xml:12:9-37
+	android:resizeable
+		ADDED from E:\Android_prj\face-detection1\openCVSamplefacedetection\src\main\AndroidManifest.xml:13:9-34
+	android:anyDensity
+		ADDED from E:\Android_prj\face-detection1\openCVSamplefacedetection\src\main\AndroidManifest.xml:10:9-34
+uses-permission#android.permission.CAMERA
+ADDED from E:\Android_prj\face-detection1\openCVSamplefacedetection\src\main\AndroidManifest.xml:16:5-65
+	android:name
+		ADDED from E:\Android_prj\face-detection1\openCVSamplefacedetection\src\main\AndroidManifest.xml:16:22-62
+uses-feature#android.hardware.camera
+ADDED from E:\Android_prj\face-detection1\openCVSamplefacedetection\src\main\AndroidManifest.xml:18:5-20:36
+	android:required
+		ADDED from E:\Android_prj\face-detection1\openCVSamplefacedetection\src\main\AndroidManifest.xml:20:9-33
+	android:name
+		ADDED from E:\Android_prj\face-detection1\openCVSamplefacedetection\src\main\AndroidManifest.xml:19:9-47
+uses-feature#android.hardware.camera.autofocus
+ADDED from E:\Android_prj\face-detection1\openCVSamplefacedetection\src\main\AndroidManifest.xml:21:5-23:36
+	android:required
+		ADDED from E:\Android_prj\face-detection1\openCVSamplefacedetection\src\main\AndroidManifest.xml:23:9-33
+	android:name
+		ADDED from E:\Android_prj\face-detection1\openCVSamplefacedetection\src\main\AndroidManifest.xml:22:9-57
+uses-feature#android.hardware.camera.front
+ADDED from E:\Android_prj\face-detection1\openCVSamplefacedetection\src\main\AndroidManifest.xml:24:5-26:36
+	android:required
+		ADDED from E:\Android_prj\face-detection1\openCVSamplefacedetection\src\main\AndroidManifest.xml:26:9-33
+	android:name
+		ADDED from E:\Android_prj\face-detection1\openCVSamplefacedetection\src\main\AndroidManifest.xml:25:9-53
+uses-feature#android.hardware.camera.front.autofocus
+ADDED from E:\Android_prj\face-detection1\openCVSamplefacedetection\src\main\AndroidManifest.xml:27:5-29:36
+	android:required
+		ADDED from E:\Android_prj\face-detection1\openCVSamplefacedetection\src\main\AndroidManifest.xml:29:9-33
+	android:name
+		ADDED from E:\Android_prj\face-detection1\openCVSamplefacedetection\src\main\AndroidManifest.xml:28:9-63
+uses-permission#android.permission.INTERNET
+ADDED from E:\Android_prj\face-detection1\openCVSamplefacedetection\src\main\AndroidManifest.xml:31:5-67
+MERGED from [com.yanzhenjie.nohttp:nohttp:1.1.3] E:\Android_prj\face-detection1\openCVSamplefacedetection\build\intermediates\exploded-aar\com.yanzhenjie.nohttp\nohttp\1.1.3\AndroidManifest.xml:26:5-67
+	android:name
+		ADDED from E:\Android_prj\face-detection1\openCVSamplefacedetection\src\main\AndroidManifest.xml:31:22-64
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from E:\Android_prj\face-detection1\openCVSamplefacedetection\src\main\AndroidManifest.xml:32:5-80
+MERGED from [com.yanzhenjie.nohttp:nohttp:1.1.3] E:\Android_prj\face-detection1\openCVSamplefacedetection\build\intermediates\exploded-aar\com.yanzhenjie.nohttp\nohttp\1.1.3\AndroidManifest.xml:24:5-80
+	android:name
+		ADDED from E:\Android_prj\face-detection1\openCVSamplefacedetection\src\main\AndroidManifest.xml:32:22-77
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from E:\Android_prj\face-detection1\openCVSamplefacedetection\src\main\AndroidManifest.xml:33:5-81
+MERGED from [com.yanzhenjie.nohttp:nohttp:1.1.3] E:\Android_prj\face-detection1\openCVSamplefacedetection\build\intermediates\exploded-aar\com.yanzhenjie.nohttp\nohttp\1.1.3\AndroidManifest.xml:25:5-81
+	android:name
+		ADDED from E:\Android_prj\face-detection1\openCVSamplefacedetection\src\main\AndroidManifest.xml:33:22-78
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from E:\Android_prj\face-detection1\openCVSamplefacedetection\src\main\AndroidManifest.xml:34:5-79
+MERGED from [com.yanzhenjie.nohttp:nohttp:1.1.3] E:\Android_prj\face-detection1\openCVSamplefacedetection\build\intermediates\exploded-aar\com.yanzhenjie.nohttp\nohttp\1.1.3\AndroidManifest.xml:27:5-79
+	android:name
+		ADDED from E:\Android_prj\face-detection1\openCVSamplefacedetection\src\main\AndroidManifest.xml:34:22-76
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from E:\Android_prj\face-detection1\openCVSamplefacedetection\src\main\AndroidManifest.xml:35:5-76
+MERGED from [com.yanzhenjie.nohttp:nohttp:1.1.3] E:\Android_prj\face-detection1\openCVSamplefacedetection\build\intermediates\exploded-aar\com.yanzhenjie.nohttp\nohttp\1.1.3\AndroidManifest.xml:28:5-76
+	android:name
+		ADDED from E:\Android_prj\face-detection1\openCVSamplefacedetection\src\main\AndroidManifest.xml:35:22-73
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from E:\Android_prj\face-detection1\openCVSamplefacedetection\src\main\AndroidManifest.xml:37:5-75
+	android:name
+		ADDED from E:\Android_prj\face-detection1\openCVSamplefacedetection\src\main\AndroidManifest.xml:37:22-72
+application
+ADDED from E:\Android_prj\face-detection1\openCVSamplefacedetection\src\main\AndroidManifest.xml:40:5-67:19
+MERGED from [com.android.support.constraint:constraint-layout:1.0.0-alpha7] E:\Android_prj\face-detection1\openCVSamplefacedetection\build\intermediates\exploded-aar\com.android.support.constraint\constraint-layout\1.0.0-alpha7\AndroidManifest.xml:9:5-20
+MERGED from [com.yanzhenjie:permission:1.0.8] E:\Android_prj\face-detection1\openCVSamplefacedetection\build\intermediates\exploded-aar\com.yanzhenjie\permission\1.0.8\AndroidManifest.xml:24:5-30:19
+MERGED from [com.android.support:appcompat-v7:25.3.1] E:\Android_prj\face-detection1\openCVSamplefacedetection\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.3.1\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-v4:25.3.1] E:\Android_prj\face-detection1\openCVSamplefacedetection\build\intermediates\exploded-aar\com.android.support\support-v4\25.3.1\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:25.3.1] E:\Android_prj\face-detection1\openCVSamplefacedetection\build\intermediates\exploded-aar\com.android.support\support-compat\25.3.1\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] E:\Android_prj\face-detection1\openCVSamplefacedetection\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.3.1\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] E:\Android_prj\face-detection1\openCVSamplefacedetection\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.3.1\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] E:\Android_prj\face-detection1\openCVSamplefacedetection\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.3.1\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] E:\Android_prj\face-detection1\openCVSamplefacedetection\build\intermediates\exploded-aar\com.android.support\support-fragment\25.3.1\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] E:\Android_prj\face-detection1\openCVSamplefacedetection\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.3.1\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] E:\Android_prj\face-detection1\openCVSamplefacedetection\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.3.1\AndroidManifest.xml:26:5-20
+	android:label
+		ADDED from E:\Android_prj\face-detection1\openCVSamplefacedetection\src\main\AndroidManifest.xml:43:9-41
+	android:icon
+		ADDED from E:\Android_prj\face-detection1\openCVSamplefacedetection\src\main\AndroidManifest.xml:42:9-38
+	android:theme
+		ADDED from E:\Android_prj\face-detection1\openCVSamplefacedetection\src\main\AndroidManifest.xml:44:9-73
+	android:name
+		ADDED from E:\Android_prj\face-detection1\openCVSamplefacedetection\src\main\AndroidManifest.xml:41:9-46
+activity#org.opencv.samples.facedetect.activity.FaceLoginActivity
+ADDED from E:\Android_prj\face-detection1\openCVSamplefacedetection\src\main\AndroidManifest.xml:45:9-49:53
+	android:screenOrientation
+		ADDED from E:\Android_prj\face-detection1\openCVSamplefacedetection\src\main\AndroidManifest.xml:49:13-50
+	android:label
+		ADDED from E:\Android_prj\face-detection1\openCVSamplefacedetection\src\main\AndroidManifest.xml:48:13-45
+	android:configChanges
+		ADDED from E:\Android_prj\face-detection1\openCVSamplefacedetection\src\main\AndroidManifest.xml:47:13-63
+	android:name
+		ADDED from E:\Android_prj\face-detection1\openCVSamplefacedetection\src\main\AndroidManifest.xml:46:13-55
+activity#org.opencv.samples.facedetect.activity.FaceRecognitionActivity
+ADDED from E:\Android_prj\face-detection1\openCVSamplefacedetection\src\main\AndroidManifest.xml:50:9-53:53
+	android:screenOrientation
+		ADDED from E:\Android_prj\face-detection1\openCVSamplefacedetection\src\main\AndroidManifest.xml:53:13-50
+	android:configChanges
+		ADDED from E:\Android_prj\face-detection1\openCVSamplefacedetection\src\main\AndroidManifest.xml:52:13-63
+	android:name
+		ADDED from E:\Android_prj\face-detection1\openCVSamplefacedetection\src\main\AndroidManifest.xml:51:13-61
+activity#org.opencv.samples.facedetect.activity.TestActivity
+ADDED from E:\Android_prj\face-detection1\openCVSamplefacedetection\src\main\AndroidManifest.xml:54:9-57:53
+	android:screenOrientation
+		ADDED from E:\Android_prj\face-detection1\openCVSamplefacedetection\src\main\AndroidManifest.xml:57:13-50
+	android:configChanges
+		ADDED from E:\Android_prj\face-detection1\openCVSamplefacedetection\src\main\AndroidManifest.xml:56:13-63
+	android:name
+		ADDED from E:\Android_prj\face-detection1\openCVSamplefacedetection\src\main\AndroidManifest.xml:55:13-50
+activity#org.opencv.samples.facedetect.activity.ControlActivity
+ADDED from E:\Android_prj\face-detection1\openCVSamplefacedetection\src\main\AndroidManifest.xml:58:9-64:20
+	android:name
+		ADDED from E:\Android_prj\face-detection1\openCVSamplefacedetection\src\main\AndroidManifest.xml:58:19-59
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from E:\Android_prj\face-detection1\openCVSamplefacedetection\src\main\AndroidManifest.xml:59:13-63:29
+action#android.intent.action.MAIN
+ADDED from E:\Android_prj\face-detection1\openCVSamplefacedetection\src\main\AndroidManifest.xml:60:17-69
+	android:name
+		ADDED from E:\Android_prj\face-detection1\openCVSamplefacedetection\src\main\AndroidManifest.xml:60:25-66
+category#android.intent.category.LAUNCHER
+ADDED from E:\Android_prj\face-detection1\openCVSamplefacedetection\src\main\AndroidManifest.xml:62:17-77
+	android:name
+		ADDED from E:\Android_prj\face-detection1\openCVSamplefacedetection\src\main\AndroidManifest.xml:62:27-74
+activity#org.opencv.samples.facedetect.activity.InfoActivity
+ADDED from E:\Android_prj\face-detection1\openCVSamplefacedetection\src\main\AndroidManifest.xml:65:9-59
+	android:name
+		ADDED from E:\Android_prj\face-detection1\openCVSamplefacedetection\src\main\AndroidManifest.xml:65:19-56
+activity#org.opencv.samples.facedetect.activity.SuccessActivity
+ADDED from E:\Android_prj\face-detection1\openCVSamplefacedetection\src\main\AndroidManifest.xml:66:9-62
+	android:name
+		ADDED from E:\Android_prj\face-detection1\openCVSamplefacedetection\src\main\AndroidManifest.xml:66:19-59
+activity#com.yanzhenjie.permission.PermissionActivity
+ADDED from [com.yanzhenjie:permission:1.0.8] E:\Android_prj\face-detection1\openCVSamplefacedetection\build\intermediates\exploded-aar\com.yanzhenjie\permission\1.0.8\AndroidManifest.xml:25:9-29:75
+	android:windowSoftInputMode
+		ADDED from [com.yanzhenjie:permission:1.0.8] E:\Android_prj\face-detection1\openCVSamplefacedetection\build\intermediates\exploded-aar\com.yanzhenjie\permission\1.0.8\AndroidManifest.xml:29:13-72
+	android:configChanges
+		ADDED from [com.yanzhenjie:permission:1.0.8] E:\Android_prj\face-detection1\openCVSamplefacedetection\build\intermediates\exploded-aar\com.yanzhenjie\permission\1.0.8\AndroidManifest.xml:27:13-74
+	android:theme
+		ADDED from [com.yanzhenjie:permission:1.0.8] E:\Android_prj\face-detection1\openCVSamplefacedetection\build\intermediates\exploded-aar\com.yanzhenjie\permission\1.0.8\AndroidManifest.xml:28:13-72
+	android:name
+		ADDED from [com.yanzhenjie:permission:1.0.8] E:\Android_prj\face-detection1\openCVSamplefacedetection\build\intermediates\exploded-aar\com.yanzhenjie\permission\1.0.8\AndroidManifest.xml:26:13-72
+meta-data#android.support.VERSION
+ADDED from [com.android.support:appcompat-v7:25.3.1] E:\Android_prj\face-detection1\openCVSamplefacedetection\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.3.1\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-v4:25.3.1] E:\Android_prj\face-detection1\openCVSamplefacedetection\build\intermediates\exploded-aar\com.android.support\support-v4\25.3.1\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-compat:25.3.1] E:\Android_prj\face-detection1\openCVSamplefacedetection\build\intermediates\exploded-aar\com.android.support\support-compat\25.3.1\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] E:\Android_prj\face-detection1\openCVSamplefacedetection\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.3.1\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] E:\Android_prj\face-detection1\openCVSamplefacedetection\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.3.1\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.1] E:\Android_prj\face-detection1\openCVSamplefacedetection\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.3.1\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] E:\Android_prj\face-detection1\openCVSamplefacedetection\build\intermediates\exploded-aar\com.android.support\support-fragment\25.3.1\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] E:\Android_prj\face-detection1\openCVSamplefacedetection\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.3.1\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] E:\Android_prj\face-detection1\openCVSamplefacedetection\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.3.1\AndroidManifest.xml:22:5-24:34
+	android:value
+		ADDED from [com.android.support:appcompat-v7:25.3.1] E:\Android_prj\face-detection1\openCVSamplefacedetection\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.3.1\AndroidManifest.xml:27:9-31
+	android:name
+		ADDED from [com.android.support:appcompat-v7:25.3.1] E:\Android_prj\face-detection1\openCVSamplefacedetection\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.3.1\AndroidManifest.xml:26:9-47

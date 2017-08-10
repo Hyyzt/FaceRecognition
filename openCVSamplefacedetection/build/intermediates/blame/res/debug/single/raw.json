@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "E:\\Android_prj\\face-detection1\\openCVSamplefacedetection\\build\\intermediates\\res\\merged\\debug\\raw\\haarcascade_frontalface_alt.xml",
+        "source": "E:\\Android_prj\\face-detection1\\openCVSamplefacedetection\\src\\main\\res\\raw\\haarcascade_frontalface_alt.xml"
+    },
+    {
+        "merged": "E:\\Android_prj\\face-detection1\\openCVSamplefacedetection\\build\\intermediates\\res\\merged\\debug\\raw\\lbpcascade_frontalface.xml",
+        "source": "E:\\Android_prj\\face-detection1\\openCVSamplefacedetection\\src\\main\\res\\raw\\lbpcascade_frontalface.xml"
+    }
+]

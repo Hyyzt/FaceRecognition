@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "E:\\Android_prj\\face-detection1\\openCVSamplefacedetection\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_color_highlight_material.xml",
+        "source": "E:\\Android_prj\\face-detection1\\openCVSamplefacedetection\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\color-v23\\abc_color_highlight_material.xml"
+    },
+    {
+        "merged": "E:\\Android_prj\\face-detection1\\openCVSamplefacedetection\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_tint_edittext.xml",
+        "source": "E:\\Android_prj\\face-detection1\\openCVSamplefacedetection\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\color-v23\\abc_tint_edittext.xml"
+    },
+    {
+        "merged": "E:\\Android_prj\\face-detection1\\openCVSamplefacedetection\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_tint_default.xml",
+        "source": "E:\\Android_prj\\face-detection1\\openCVSamplefacedetection\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\color-v23\\abc_tint_default.xml"
+    },
+    {
+        "merged": "E:\\Android_prj\\face-detection1\\openCVSamplefacedetection\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_tint_btn_checkable.xml",
+        "source": "E:\\Android_prj\\face-detection1\\openCVSamplefacedetection\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\color-v23\\abc_tint_btn_checkable.xml"
+    },
+    {
+        "merged": "E:\\Android_prj\\face-detection1\\openCVSamplefacedetection\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_tint_seek_thumb.xml",
+        "source": "E:\\Android_prj\\face-detection1\\openCVSamplefacedetection\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\color-v23\\abc_tint_seek_thumb.xml"
+    },
+    {
+        "merged": "E:\\Android_prj\\face-detection1\\openCVSamplefacedetection\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_tint_switch_thumb.xml",
+        "source": "E:\\Android_prj\\face-detection1\\openCVSamplefacedetection\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\color-v23\\abc_tint_switch_thumb.xml"
+    },
+    {
+        "merged": "E:\\Android_prj\\face-detection1\\openCVSamplefacedetection\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_tint_switch_track.xml",
+        "source": "E:\\Android_prj\\face-detection1\\openCVSamplefacedetection\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\color-v23\\abc_tint_switch_track.xml"
+    },
+    {
+        "merged": "E:\\Android_prj\\face-detection1\\openCVSamplefacedetection\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_tint_spinner.xml",
+        "source": "E:\\Android_prj\\face-detection1\\openCVSamplefacedetection\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\color-v23\\abc_tint_spinner.xml"
+    },
+    {
+        "merged": "E:\\Android_prj\\face-detection1\\openCVSamplefacedetection\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_btn_colored_borderless_text_material.xml",
+        "source": "E:\\Android_prj\\face-detection1\\openCVSamplefacedetection\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\color-v23\\abc_btn_colored_borderless_text_material.xml"
+    },
+    {
+        "merged": "E:\\Android_prj\\face-detection1\\openCVSamplefacedetection\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_btn_colored_text_material.xml",
+        "source": "E:\\Android_prj\\face-detection1\\openCVSamplefacedetection\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\color-v23\\abc_btn_colored_text_material.xml"
+    }
+]

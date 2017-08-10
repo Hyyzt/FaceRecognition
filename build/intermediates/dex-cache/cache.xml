@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="E:\Android_prj\face-detection1\openCVSamplefacedetection\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="E:\Android_prj\face-detection1\openCVSamplefacedetection\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-25.3.1_ca4bdf5c8ffbe7f0e8a7b14979f89ccdd27ca0e2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Android_prj\face-detection1\openCVSamplefacedetection\build\intermediates\exploded-aar\com.android.support.constraint\constraint-layout\1.0.0-alpha7\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="541a2ad68dc68aa49795821f8280b7624e6a0c9b">
+        <dex dex="E:\Android_prj\face-detection1\openCVSamplefacedetection\build\intermediates\pre-dexed\debug\com.android.support.constraint-constraint-layout-1.0.0-alpha7_9a08d3eb6e27b17a58acd4d09d878ad47af5c2d4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Android_prj\face-detection1\openCVSamplefacedetection\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="E:\Android_prj\face-detection1\openCVSamplefacedetection\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-25.3.1_189f9827470b988b96244f925be32fce8f86ddf4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\OlAy\.gradle\caches\modules-2\files-2.1\com.github.bumptech.glide\glide\3.7.0\9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4\glide-3.7.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4">
+        <dex dex="E:\Android_prj\face-detection1\openCVSamplefacedetection\build\intermediates\pre-dexed\debug\glide-3.7.0_8b32eb46cf3e8d7cbaf52a853c90dee62973511e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Android_prj\face-detection1\openCVSamplefacedetection\build\intermediates\exploded-aar\com.android.support\support-fragment\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="E:\Android_prj\face-detection1\openCVSamplefacedetection\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-25.3.1_d0b8d468d6859c075b78da1ac486e1f96b03fd8f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Android_prj\face-detection1\openCVSamplefacedetection\src\main\libs\gson-2.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="5fc52c41ef0239d1093a1eb7c3697036183677ce">
+        <dex dex="E:\Android_prj\face-detection1\openCVSamplefacedetection\build\intermediates\pre-dexed\debug\gson-2.3_4eb9f5144a47f14b6b977339dc674cab89238853.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\OlAy\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.8.0\5a11f020cce2d11eb71ba916700600e18c4547e7\okhttp-3.8.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="5a11f020cce2d11eb71ba916700600e18c4547e7">
+        <dex dex="E:\Android_prj\face-detection1\openCVSamplefacedetection\build\intermediates\pre-dexed\debug\okhttp-3.8.0_f308ada7d8739cf2011df8542694836afd3edef8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Android_prj\face-detection1\openCVSamplefacedetection\build\intermediates\exploded-aar\com.yanzhenjie.alertdialog\alertdialog\1.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="284e4a41a5b9f1b8c97b16b685af7b99724bca2d">
+        <dex dex="E:\Android_prj\face-detection1\openCVSamplefacedetection\build\intermediates\pre-dexed\debug\com.yanzhenjie.alertdialog-alertdialog-1.0.1_a42b8e169c6740470e995a0d9d215b096e80cdd5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Android_prj\face-detection1\openCVSamplefacedetection\build\intermediates\exploded-aar\com.yanzhenjie.nohttp\nohttp\1.1.3\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2091a7f1d1ed5a35b6fc04f75b044013b8460434">
+        <dex dex="E:\Android_prj\face-detection1\openCVSamplefacedetection\build\intermediates\pre-dexed\debug\com.yanzhenjie.nohttp-nohttp-1.1.3_4f5f124fa54fd24e08afd659e1dac4a601bcbee7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Android_prj\face-detection1\openCVSamplefacedetection\build\intermediates\exploded-aar\com.yanzhenjie.nohttp\okhttp\1.1.3\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="606b44b4dc7c8e5e819774e7ce2d5d0cc2387db0">
+        <dex dex="E:\Android_prj\face-detection1\openCVSamplefacedetection\build\intermediates\pre-dexed\debug\com.yanzhenjie.nohttp-okhttp-1.1.3_458846062871f550bcc6110891a8a4cf4cc476c7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Android\SDK\extras\android\m2repository\com\android\support\support-annotations\25.3.1\support-annotations-25.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="E:\Android_prj\face-detection1\openCVSamplefacedetection\build\intermediates\pre-dexed\debug\support-annotations-25.3.1_ad885d9968531cd248ff7229237af431dbe89fed.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\OlAy\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.13.0\a9283170b7305c8d92d25aff02a6ab7e45d06cbe\okio-1.13.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a9283170b7305c8d92d25aff02a6ab7e45d06cbe">
+        <dex dex="E:\Android_prj\face-detection1\openCVSamplefacedetection\build\intermediates\pre-dexed\debug\okio-1.13.0_8bc7e7acc68f9dee3c5ed78e29bc49df08c7be4f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Android_prj\face-detection1\openCVSamplefacedetection\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="E:\Android_prj\face-detection1\openCVSamplefacedetection\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-25.3.1_3b3d7ec110df49c3666c7b8f2914bea8b7518832.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Android_prj\face-detection1\openCVSamplefacedetection\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="E:\Android_prj\face-detection1\openCVSamplefacedetection\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-25.3.1_392e45c8ea1c0a27f01b4d443e74fb04c48ce49c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Android_prj\face-detection1\openCVSamplefacedetection\build\intermediates\exploded-aar\face-detection1\openCVLibrary2411\unspecified\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3bc188f87b6eec1fa18bcfda8c241a3217bad294">
+        <dex dex="E:\Android_prj\face-detection1\openCVSamplefacedetection\build\intermediates\pre-dexed\debug\face-detection1-openCVLibrary2411-unspecified_9b62247ed39620ac3e9dfd29c2710f025cdf8aae.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Android_prj\face-detection1\openCVSamplefacedetection\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="E:\Android_prj\face-detection1\openCVSamplefacedetection\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-25.3.1_b671e6e5420f4cded304044bd4522477a03ad713.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Android_prj\face-detection1\openCVSamplefacedetection\build\intermediates\exploded-aar\com.android.support\support-v4\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="E:\Android_prj\face-detection1\openCVSamplefacedetection\build\intermediates\pre-dexed\debug\com.android.support-support-v4-25.3.1_81872bb87408a18056a1bfb6bbe03746bb175649.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Android\SDK\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.0-alpha7\constraint-layout-solver-1.0.0-alpha7.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="439eeb5ffd54cbd18db0a6aea471e8356f19fc36">
+        <dex dex="E:\Android_prj\face-detection1\openCVSamplefacedetection\build\intermediates\pre-dexed\debug\constraint-layout-solver-1.0.0-alpha7_a46ba42e07ff228e84ac4ee80ac78fd53d962cb2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\OlAy\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp-urlconnection\3.8.0\265257b82f20bb0371a926cc8ceb5f7bb17c0df8\okhttp-urlconnection-3.8.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="265257b82f20bb0371a926cc8ceb5f7bb17c0df8">
+        <dex dex="E:\Android_prj\face-detection1\openCVSamplefacedetection\build\intermediates\pre-dexed\debug\okhttp-urlconnection-3.8.0_74c9066d6b74c5d1b5cb263589bf25117ad69bbd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Android_prj\face-detection1\openCVSamplefacedetection\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="E:\Android_prj\face-detection1\openCVSamplefacedetection\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-25.3.1_65e017e89659b8e7184a352081b9a4d50bceefd7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Android_prj\face-detection1\openCVSamplefacedetection\build\intermediates\exploded-aar\com.android.support\support-compat\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="E:\Android_prj\face-detection1\openCVSamplefacedetection\build\intermediates\pre-dexed\debug\com.android.support-support-compat-25.3.1_8557186179965ebd9244fdcb0390372e3a262970.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Android_prj\face-detection1\openCVSamplefacedetection\build\intermediates\exploded-aar\com.yanzhenjie\permission\1.0.8\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c75007d82461aecc56df64e675148a883096c790">
+        <dex dex="E:\Android_prj\face-detection1\openCVSamplefacedetection\build\intermediates\pre-dexed\debug\com.yanzhenjie-permission-1.0.8_638fbde0b6d9df4e7b1ecdfc3b82095ca4cf3f37.jar" />
+    </item>
+
+</items>

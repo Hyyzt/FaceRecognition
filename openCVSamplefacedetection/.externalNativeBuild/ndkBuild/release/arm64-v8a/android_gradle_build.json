@@ -1,0 +1,33 @@
+{
+  "buildFiles": [
+    "E:\\Android_prj\\face-detection1\\openCVSamplefacedetection\\src\\main\\jni\\Android.mk",
+    "E:\\Android_prj\\face-detection1\\openCVSamplefacedetection\\src\\main\\jni\\Application.mk"
+  ],
+  "cleanCommands": [
+    "D:\\Android\\NDK\\android-ndk-r11b\\ndk-build.cmd NDK_PROJECT_PATH\u003dnull APP_BUILD_SCRIPT\u003dE:\\Android_prj\\face-detection1\\openCVSamplefacedetection\\src\\main\\jni\\Android.mk NDK_APPLICATION_MK\u003dE:\\Android_prj\\face-detection1\\openCVSamplefacedetection\\src\\main\\jni\\Application.mk APP_ABI\u003darm64-v8a NDK_ALL_ABIS\u003darm64-v8a NDEBUG\u003d0 APP_PLATFORM\u003dandroid-24 NDK_OUT\u003dE:\\Android_prj\\face-detection1\\openCVSamplefacedetection\\.externalNativeBuild\\ndkBuild\\release\\obj NDK_LIBS_OUT\u003dE:\\Android_prj\\face-detection1\\openCVSamplefacedetection\\build\\intermediates\\ndkBuild\\release\\lib clean"
+  ],
+  "libraries": {
+    "detection_based_tracker-release-arm64-v8a": {
+      "buildCommand": "D:\\Android\\NDK\\android-ndk-r11b\\ndk-build.cmd NDK_PROJECT_PATH\u003dnull APP_BUILD_SCRIPT\u003dE:\\Android_prj\\face-detection1\\openCVSamplefacedetection\\src\\main\\jni\\Android.mk NDK_APPLICATION_MK\u003dE:\\Android_prj\\face-detection1\\openCVSamplefacedetection\\src\\main\\jni\\Application.mk APP_ABI\u003darm64-v8a NDK_ALL_ABIS\u003darm64-v8a NDEBUG\u003d0 APP_PLATFORM\u003dandroid-24 NDK_OUT\u003dE:\\Android_prj\\face-detection1\\openCVSamplefacedetection\\.externalNativeBuild\\ndkBuild\\release\\obj NDK_LIBS_OUT\u003dE:\\Android_prj\\face-detection1\\openCVSamplefacedetection\\build\\intermediates\\ndkBuild\\release\\lib E:\\Android_prj\\face-detection1\\openCVSamplefacedetection\\.externalNativeBuild\\ndkBuild\\release\\obj/local/arm64-v8a/libdetection_based_tracker.so",
+      "toolchain": "toolchain-arm64-v8a",
+      "abi": "arm64-v8a",
+      "artifactName": "detection_based_tracker",
+      "files": [
+        {
+          "src": "E:\\Android_prj\\face-detection1\\openCVSamplefacedetection\\src\\main\\jni\\DetectionBasedTracker_jni.cpp",
+          "flags": "\"-fpic\" \"-ffunction-sections\" \"-funwind-tables\" \"-fstack-protector-strong\" \"-no-canonical-prefixes\" \"-fno-exceptions\" \"-fno-rtti\" \"-O2\" \"-g\" \"-DNDEBUG\" \"-fomit-frame-pointer\" \"-fstrict-aliasing\" \"-funswitch-loops\" \"-finline-limit\u003d300\" \"-IE:/Demo/OpenCV-android-sdk/sdk/native/jni/include/opencv\" \"-IE:/Demo/OpenCV-android-sdk/sdk/native/jni/include\" \"-IE:/Android_prj/face-detection1/openCVSamplefacedetection/src/main/jni\" \"-ID:/Android/NDK/android-ndk-r11b/build//../sources/cxx-stl/gnu-libstdc++/4.9/include\" \"-ID:/Android/NDK/android-ndk-r11b/build//../sources/cxx-stl/gnu-libstdc++/4.9/libs/arm64-v8a/include\" \"-ID:/Android/NDK/android-ndk-r11b/build//../sources/cxx-stl/gnu-libstdc++/4.9/include/backward\" \"-IE:/Android_prj/face-detection1/openCVSamplefacedetection/src/main/jni\" \"-DANDROID\" \"-fPIC\" \"-DANDROID\" \"-fsigned-char\" \"-Wa,--noexecstack\" \"-Wformat\" \"-Werror\u003dformat-security\" \"-frtti\" \"-fexceptions\" \"-isystem\" \"D:/Android/NDK/android-ndk-r11b/build//../platforms/android-24/arch-arm64/usr/include\""
+        }
+      ],
+      "output": "E:\\Android_prj\\face-detection1\\openCVSamplefacedetection\\.externalNativeBuild\\ndkBuild\\release\\obj\\local\\arm64-v8a\\libdetection_based_tracker.so"
+    }
+  },
+  "toolchains": {
+    "toolchain-arm64-v8a": {
+      "cppCompilerExecutable": "D:\\Android\\NDK\\android-ndk-r11b\\build\\..\\toolchains\\aarch64-linux-android-4.9\\prebuilt\\windows-x86_64\\bin\\aarch64-linux-android-g++"
+    }
+  },
+  "cFileExtensions": [],
+  "cppFileExtensions": [
+    "cpp"
+  ]
+}

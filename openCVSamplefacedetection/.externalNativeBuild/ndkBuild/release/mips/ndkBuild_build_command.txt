@@ -1,0 +1,16 @@
+Executable : D:\Android\NDK\android-ndk-r11b\ndk-build.cmd
+arguments : 
+NDK_PROJECT_PATH=null
+APP_BUILD_SCRIPT=E:\Android_prj\face-detection1\openCVSamplefacedetection\src\main\jni\Android.mk
+NDK_APPLICATION_MK=E:\Android_prj\face-detection1\openCVSamplefacedetection\src\main\jni\Application.mk
+APP_ABI=mips
+NDK_ALL_ABIS=mips
+NDEBUG=0
+APP_PLATFORM=android-24
+NDK_OUT=E:\Android_prj\face-detection1\openCVSamplefacedetection\.externalNativeBuild\ndkBuild\release\obj
+NDK_LIBS_OUT=E:\Android_prj\face-detection1\openCVSamplefacedetection\build\intermediates\ndkBuild\release\lib
+APP_SHORT_COMMANDS=false
+LOCAL_SHORT_COMMANDS=false
+-n
+jvmArgs : 
+

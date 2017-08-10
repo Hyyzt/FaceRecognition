@@ -1,0 +1,11 @@
+{
+  "buildFiles": [
+    "E:\\Android_prj\\face-detection1\\openCVSamplefacedetection\\src\\main\\jni\\Android.mk",
+    "E:\\Android_prj\\face-detection1\\openCVSamplefacedetection\\src\\main\\jni\\Application.mk"
+  ],
+  "cleanCommands": [],
+  "libraries": {},
+  "toolchains": {},
+  "cFileExtensions": [],
+  "cppFileExtensions": []
+}
